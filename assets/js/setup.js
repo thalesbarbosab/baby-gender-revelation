@@ -29,25 +29,30 @@ var p_about = document.querySelector('.p-about');
 //     name: 'Samuel ',
 //     lastname: 'Gomes Bento',
 //     about: `
-//    Poderíamos falar muitas coisas de Samuel. Ele foi um servo de Deus extremamente obediente. Porém vamos nos atentar a história de seu nascimento. Ele foi resposta de oração a uma mulher chamada Ana que não podia ter filhos: 
+//     <p><strong>&nbsp; &nbsp;Poder&iacute;amos falar muitas coisas de Samuel. Ele foi um servo de Deus extremamente obediente. Por&eacute;m vamos nos atentar a hist&oacute;ria de seu nascimento. Ele foi resposta de ora&ccedil;&atilde;o a uma mulher chamada Ana que n&atilde;o podia ter filhos:</strong></p>
 
-// [10] e, com a alma amargurada, chorou muito e orou ao Senhor. [11] E fez um voto, dizendo: “Ó Senhor dos Exércitos, se tu deres atenção à humilhação de tua serva, te lembrares de mim e não te esqueceres de tua serva, mas lhe deres um filho, então eu o dedicarei ao Senhor por todos os dias de sua vida, e o seu cabelo e a sua barba nunca serão cortados”.
-// (1 Samuel 1:10-11)
+// <blockquote class="blockquote">
+// <p><strong><u>[10] e, com a alma amargurada, chorou muito e orou ao Senhor. [11] E fez um voto, dizendo: &ldquo;&Oacute; Senhor dos Ex&eacute;rcitos, se tu deres aten&ccedil;&atilde;o &agrave; humilha&ccedil;&atilde;o de tua serva, te lembrares de mim e n&atilde;o te esqueceres de tua serva, mas lhe deres um filho, ent&atilde;o eu o dedicarei ao Senhor por todos os dias de sua vida, e o seu cabelo e a sua barba nunca ser&atilde;o cortados&rdquo;. (1 Samuel 1:10-11)</u></strong></p>
+// </blockquote>
 
-// Ana pediu um filho a Deus, mas disse que se Deus desse, ela o entregaria de volta ao Senhor. No sentido de que Samuel serviria a Deus durante toda a vida dele.
+// <p><strong>Ana pediu um filho a Deus, mas disse que se Deus desse, ela o entregaria de volta ao Senhor. No sentido de que Samuel serviria a Deus durante toda a vida dele.</strong></p>
 
-// A Bíblia diz que Deus se lembrou de Ana e lhe deu Samuel: 
+// <p><strong>A B&iacute;blia diz que Deus se lembrou de Ana e lhe deu Samuel:</strong></p>
 
-// [20] Assim Ana engravidou e, no devido tempo, deu à luz um filho. E deu-lhe o nome de Samuel, dizendo: “Eu o pedi ao Senhor”. 
-// (1 Samuel 1:20)
+// <blockquote class="blockquote">
+// <p><strong><u>[20] Assim Ana engravidou e, no devido tempo, deu &agrave; luz um filho. E deu-lhe o nome de Samuel, dizendo: &ldquo;Eu o pedi ao Senhor&rdquo;. (1 Samuel 1:20)</u></strong></p>
+// </blockquote>
 
-// Hoje damos o nome do nosso menino de Samuel pois nos identificamos com a história de Ana. A Karol foi diagnosticada com endometriose início de 2023 e a médica já disse "do jeito que seu útero está você não vai conseguir engravidar se não operar e não colocar DIU". Nós concordamos como casal após orarmos e Deus nos tocar que não era a hora de operar. Optamos pela tratamento natural antiinflamatório. Tivemos que ter uma alimentação mais regrada aqui em casa, prática de exercícios físicos e juntos emagrecemos muito também. Quando chegou em 2024 para repetição dos exames, descobri que a endometriose tinha avançado mais e venho a pergunta "mas Deus nos tocou para seguir com o tratamento natural. Onde erramos"? Desde então a Karol já vinha pedindo um filho a Deus. Foi então que 1 mês depois do exame da endometriose, descobrimos que estamos grávidos. Foi uma alegria. Lembro de uma outra médica querida (Dra Mayara Rodrigues) que disse "Sua cura chegou" porque ela me disse que a gravidez cura grande parte da endometriose.
-// É...Deus é especialista em milagres. Mesmo quando tudo parece contrário. Para ele nada é impossível: 
+// <p><strong>Hoje damos o nome do nosso menino de Samuel pois nos identificamos com a hist&oacute;ria de Ana. A Karol foi diagnosticada com endometriose in&iacute;cio de 2023 e a m&eacute;dica j&aacute; disse &quot;do jeito que seu &uacute;tero est&aacute; voc&ecirc; n&atilde;o vai conseguir engravidar se n&atilde;o operar e n&atilde;o colocar DIU&quot;. N&oacute;s concordamos como casal ap&oacute;s orarmos e Deus nos tocar que n&atilde;o era a hora de operar. Optamos pela tratamento natural antiinflamat&oacute;rio. Tivemos que ter uma alimenta&ccedil;&atilde;o mais regrada aqui em casa, pr&aacute;tica de exerc&iacute;cios f&iacute;sicos e juntos emagrecemos muito tamb&eacute;m. Quando chegou em 2024 para repeti&ccedil;&atilde;o dos exames, descobri que a endometriose tinha avan&ccedil;ado mais e venho a pergunta &quot;mas Deus nos tocou para seguir com o tratamento natural. Onde erramos&quot;? Desde ent&atilde;o a Karol j&aacute; vinha pedindo um filho a Deus. Foi ent&atilde;o que 1 m&ecirc;s depois do exame da endometriose, descobrimos que estamos gr&aacute;vidos. Foi uma alegria. Lembro de uma outra m&eacute;dica querida (Dra Mayara Rodrigues) que disse &quot;Sua cura chegou&quot; porque ela me disse que a gravidez cura grande parte da endometriose.</strong></p>
 
-// [37] Pois nada é impossível para Deus”.
-// (Lucas 1:37)
+// <p><strong>&Eacute;...Deus &eacute; especialista em milagres. Mesmo quando tudo parece contr&aacute;rio. Para ele nada &eacute; imposs&iacute;vel:</strong></p>
 
-// Desde quando Deus nos presentou com esse bebê, já temos orado para que Ele ame ao Senhor mais do que tudo. E nosso desejo para o nosso Samuel é que Ele seja um servo de Deus fiel e obediente durante toda a sua vida.`
+// <blockquote class="blockquote">
+// <p><strong><u>[37] Pois nada &eacute; imposs&iacute;vel para Deus&rdquo;. (Lucas 1:37)</u></strong></p>
+// </blockquote>
+
+// <p><strong>&nbsp; &nbsp;Desde quando Deus nos presentou com esse beb&ecirc;, j&aacute; temos orado para que Ele ame ao Senhor mais do que tudo. E nosso desejo para o nosso Samuel &eacute; que Ele seja um servo de Deus fiel e obediente durante toda a sua vida.</strong></p>
+// `
 // };
 
 const baby = {
@@ -55,13 +60,25 @@ const baby = {
     title: 'Nossa <span style="color: rgba(253, 0, 219, 0.7)">menina</span> está chegando !',
     name: 'Ester',
     lastname: 'Gomes Bento',
-    about: `Ester foi uma mulher na Bíblia que Deus colocou na posição de rainha por um motivo muito importante: salvar o povo judeu. Hamã foi um homem mal que queria exterminar o povo de Deus. 
-    Naquela época não era permitido que nem mesmo a rainha entrasse na presença do Rei sem ser convidada. Porém Ester precisava dizer ao Rei o plano de Hamã e solicitar ajuda para salvar o seu povo. Ela teve medo, mas seu primo Mardoqueu a encorajou e lembrou-a de que Deus havia colocado ela na posição de rainha:
-    [12] Quando Mardoqueu recebeu a resposta de Ester, [13] mandou dizer-lhe: “Não pense que pelo fato de estar no palácio do rei, você será a única entre os judeus que escapará, [14] pois, se você ficar calada nesta hora, socorro e livramento surgirão de outra parte para os judeus, mas você e a família do seu pai morrerão. Quem sabe se não foi para um momento como este que você chegou à posição de rainha?”
-    (Ester 4:12-14)\n\nA resposta de Ester mostra sua postura de verdadeira serva de Deus disposta a fazer a vontade Dele:
-    [16] “Vá reunir todos os judeus que estão em Susã, e jejuem em meu favor. Não comam nem bebam durante três dias e três noites. Eu e minhas criadas jejuaremos como vocês. Depois disso irei ao rei, ainda que seja contra a lei. Se eu tiver que morrer, morrerei”.
-    (Ester 4:16)\n\nSe continuarmos lendo veremos que com essa postura de obediência e submissão ao Senhor, Deus usou Ester para salvar o Seu Povo. Que privilégio. Isso nos leva a refletir que muitas vezes Deus nos dá posições ou privilégios para realizar sua obra aqui na terra e para que Ele seja glorificado.
-    Nosso desejo para nossa Ester é que ela esteja disposta a servir, obedecer e amar a Jesus mesmo que sua vida esteja em jogo. Sabemos que nada nesse mundo pode trazer qualquer preenchimento verdadeiro a nossa Ester senão Nosso Único e Suficiente Salvador: Jesus!'
+    about: `
+    <p><strong>&nbsp; &nbsp;Ester foi uma mulher na B&iacute;blia que Deus colocou na posi&ccedil;&atilde;o de rainha por um motivo muito importante: salvar o povo judeu. Ham&atilde; foi um homem mal que queria exterminar o povo de Deus. Naquela &eacute;poca n&atilde;o era permitido que nem mesmo a rainha entrasse na presen&ccedil;a do Rei sem ser convidada. Por&eacute;m Ester precisava dizer ao Rei o plano de Ham&atilde; e solicitar ajuda para salvar o seu povo. Ela teve medo, mas seu primo Mardoqueu a encorajou e lembrou-a de que Deus havia colocado ela na posi&ccedil;&atilde;o de rainha:</strong></p>
+
+<blockquote class="blockquote">
+<p style="text-align: justify;"><strong><u>[12] Quando Mardoqueu recebeu a resposta de Ester, [13] mandou dizer-lhe: &ldquo;N&atilde;o pense que pelo fato de estar no pal&aacute;cio do rei, voc&ecirc; ser&aacute; a &uacute;nica entre os judeus que escapar&aacute;, [14] pois, se voc&ecirc; ficar calada nesta hora, socorro e livramento surgir&atilde;o de outra parte para os judeus, mas voc&ecirc; e a fam&iacute;lia do seu pai morrer&atilde;o. Quem sabe se n&atilde;o foi para um momento como este que voc&ecirc; chegou &agrave; posi&ccedil;&atilde;o de rainha?&rdquo; (Ester 4:12-14).</u></strong></p>
+</blockquote>
+
+<p><strong>A resposta de Ester mostra sua postura de verdadeira serva de Deus disposta a fazer a vontade Dele:</strong></p>
+
+<blockquote class="blockquote">
+<p><u><strong>[16] &ldquo;V&aacute; reunir todos os judeus que est&atilde;o em Sus&atilde;, e jejuem em meu favor. N&atilde;o comam nem bebam durante tr&ecirc;s dias e tr&ecirc;s noites. Eu e minhas criadas jejuaremos como voc&ecirc;s. Depois disso irei ao rei, ainda que seja contra a lei. Se eu tiver que morrer, morrerei&rdquo; (Ester 4:16).</strong></u></p>
+</blockquote>
+
+<p><strong>Se continuarmos lendo veremos que com essa postura de obedi&ecirc;ncia e submiss&atilde;o ao Senhor, Deus usou Ester para salvar o Seu Povo. Que privil&eacute;gio. Isso nos leva a refletir que muitas vezes Deus nos d&aacute; posi&ccedil;&otilde;es ou privil&eacute;gios para realizar sua obra aqui na terra e para que Ele seja glorificado.</strong></p>
+
+<p><strong>&nbsp; &nbsp; Nosso desejo para nossa Ester &eacute; que ela esteja disposta a servir, obedecer e amar a Jesus mesmo que sua vida esteja em jogo. Sabemos que nada nesse mundo pode trazer qualquer preenchimento verdadeiro a nossa Ester sen&atilde;o Nosso &Uacute;nico e Suficiente Salvador: Jesus!&#39;</strong></p>
+
+<address>&nbsp;</address>
+
   `
 };
 
@@ -84,7 +101,6 @@ function showStep2()
     step_3.style.display = "none";
     step_4.style.display = "none";
     startDrumRollEvent()
-    createBalloons(30);
 }
 
 function showStep3()
@@ -107,5 +123,9 @@ function showStep4()
     step_2.style.display = "none";
     step_3.style.display = "none";
     step_4.style.display = "block";
-    removeBalloons();
+}
+
+function reset()
+{
+    window.location.reload();
 }

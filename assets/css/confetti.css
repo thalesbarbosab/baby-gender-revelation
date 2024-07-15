@@ -210,5 +210,11 @@ body {
 }
 
 .display-1 {
-  font-size: calc(5.625rem + 4.5vw) !important;
+  font-size: calc(3.625rem + 4.5vw) !important;
+}
+
+.p-about {
+  font-weight: 700 !important;
+  font-style: normal;
+  font-size: 20px;
 }
